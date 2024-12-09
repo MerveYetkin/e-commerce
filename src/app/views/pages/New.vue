@@ -125,7 +125,7 @@
             <label >Fiyat Aralığı</label>
               <div class="slider-labels flex justify-between ">
               
-                  <span id="minValue">189 TL</span>
+                  <span id="minValue">189 TL</span> 
                   <span id="maxValue">600 TL</span>
                </div>
             <input type="range" id="priceRange" min="0" max="1000" value="500" step="10" class="range-input">
